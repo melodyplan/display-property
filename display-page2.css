@@ -1,0 +1,42 @@
+main {
+	padding: 30px;
+	font-size: 0;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.inner {
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+	font-size: 0;
+	border: 1px solid black;
+}
+
+.inner-one {
+	background-color: green;
+}
+
+.inner-two {
+	background-color: blue;
+}
+
+.second-inner {
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+	font-size: 0;
+	border: 1px solid black;
+}
+
+.second-inner-one {
+	background-color: gray;
+}
+
+.second-inner-two {
+	background-color: black;
+}
+
+.second-inner-3 {
+	background-color: #Ceac41;
+}
